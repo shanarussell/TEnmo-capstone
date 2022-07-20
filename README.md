@@ -1,6 +1,6 @@
 # Module 2 Capstone - TEnmo
 
-Congratulations—you've landed a job with TEnmo, whose product is an online payment service for transferring "TE bucks" between friends. However, they don't have a product yet. You've been tasked with writing a RESTful API server and command-line application.
+Together with my pair programming partner, we were tasked with building a RESTful API server and command-line application for a fictitious company named TEnmo, whose product is an online payment service for transferring "TE bucks" between friends. You will find the requirements of this project below:
 
 ## Use cases
 
